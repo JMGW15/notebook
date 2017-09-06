@@ -1,0 +1,256 @@
+    1  ls -G
+    2  xcode-select --install
+    3  xcode-select --install
+    4  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    5  brew analytics off
+    6  brew help
+    7  brew install bash
+    8  echo '/usr/local/bin/bash' | sudo tee -a /etc/shells
+    9  chsh -s /usr/local/bin/bash
+   10  bash -version
+   11  whoami
+   12  curl -fsSL https://git.io/v50Ta | ruby
+   13  ls
+   14  Dekstop/
+   15  Desktop/
+   16  curl -fsSL https://git.io/v50Ta | ruby
+   17  chsh -s /usr/local/bin/bash
+   18  chsh -s /usr/local/bin/bash
+   19  chsh -s /usr/local/bin/bash
+   20  Desktop/
+   21  ~
+   22  brew install git
+   23  git --version
+   24  brew install bash-completion
+   25  curl -fsSL https://git.io/v504A | ruby
+   26  git config --global user.name 'YOUR NAME'
+   27  git config --global user.name 'Jenna Wasserman'
+   28  git config --global user.email jennaw@amazon.com
+   29  git config --list
+   30  curl -fsSL https://git.io/v500H | sh
+   31  git config --list
+   32  java -version
+   33  brew install tree
+   34  tree ~
+   35  tree -L 1~
+   36  cd /
+   37  ll
+   38  ll /Applications/
+   39  open/Applications
+   40  open/application
+   41  open /Applications
+   42  ll /Applications/Amazon\ Chime.app/Contents
+   43  ll ~/Applications
+   44  ll
+   45  cd ~
+   46  cd ..
+   47  cd
+   48  cd ..
+   49  ll
+   50  la
+   51  cd ../..
+   52  cd .
+   53  cd ./
+   54  cd /.
+   55  cd ~
+   56  cd .
+   57  cd ..
+   58  cd
+   59  cd Users/jennaw/
+   60  cd Users/jennaw
+   61  cd /Users/jennaw
+   62  pwd
+   63  cd jennaw/
+   64  cd /Users
+   65  cd jennaw/
+   66  .
+   67  cd .
+   68  cd ..
+   69  cd ..
+   70  cd .
+   71  cd /Users
+   72  cd /..
+   73  cd /..
+   74  ..
+   75  .
+   76  /Desktop
+   77  cd /Desktop
+   78  ~
+   79  cd --
+   80  cd -
+   81  .
+   82  ..
+   83  ..
+   84  -
+   85  cd -
+   86  cd - 
+   87  psuedo cd /Library
+   88  sude cd/lib
+   89  sudo cd/lib
+   90  ls
+   91  sudo ll
+   92  ll
+   93  sudo cd /private
+   94  cd /private
+   95  ls
+   96  ll
+   97  ..
+   98  cd/Volumes
+   99  cd /Volumes
+  100  ll
+  101  la
+  102  echo $EDITOR
+  103  echo $SHELL 
+  104  pwd
+  105  ls
+  106  ls /users/jennaw
+  107  ls .
+  108  cd Desktop/
+  109  ls.
+  110  ls .
+  111  cd ~
+  112  ls ~
+  113  cd desktop
+  114  cd ~
+  115  open .
+  116  ls -l
+  117  ls -hl
+  118  ll
+  119  ls -hal
+  120  la
+  121  ls -a
+  122  man ls
+  123  man submit
+  124  man cd
+  125  man cd
+  126  man echo
+  127  man cd
+  128  man quit
+  129  man cd
+  130  man pwd
+  131  man cd
+  132  man ls
+  133  ls -c
+  134  man ls
+  135  ls -G
+  136  man ls
+  137  man cd
+  138  help cd
+  139  env
+  140  echo $SHELL
+  141  echo $PATH
+  142  which echo
+  143  /bin/echo $SHELL
+  144  echo $SHELL
+  145  which which 
+  146  echo $PATH
+  147  ls /usr/local/bin
+  148  ls /usr/bin
+  149  ls /bin
+  150  ls /sbin
+  151  ls /usr/sbin
+  152  echo $EDITOR
+  153  nano ~/.bash_profile
+  154  cat ~/.bash_profile
+  155  cd ~/Projects/week01
+  156  ls
+  157  ll
+  158  cat tips
+  159  git status
+  160  cat instructions
+  161  cd
+  162  mkdir Projects
+  163  cd Projects
+  164  cd 
+  165  cd Projects
+  166  mkdir week01
+  167  cd week01
+  168  ll
+  169  mkdir notebook
+  170  cd notebook
+  171  touch notes.txt
+  172  ll
+  173  cat notes.txt
+  174  nano notes.txt
+  175  cat notes.txt
+  176  mv notes.txt commands.txt
+  177  mv commands.txt ./notes.txt
+  178  ll .
+  179  cp notes commands.txt
+  180  mv ./notes.txt notebook/notes.txt
+  181  ll
+  182  cp notes more_notes.txt
+  183  cp notes.txt notes2.txt
+  184  ll
+  185  cat notes
+  186  cat notes.txt
+  187  ll
+  188  rm notebook/notes.txt
+  189  rm notes.txt
+  190  ll
+  191  rmdir notebook
+  192  ..
+  193  rmdir notebook
+  194  man rmdir
+  195  rmdir -p notebook
+  196  man rmdir
+  197  rm notebook
+  198  rm -r notebook/
+  199  ll
+  200  man rmdir
+  201  man rm
+  202  ..
+  203  ll
+  204  cd week01
+  205  mkdir notebook
+  206  ll
+  207  cd notebook
+  208  touch notes.txt
+  209  cat notes.txt
+  210  ls
+  211  ll
+  212  nano notes.txt
+  213  cat notes.txt
+  214  mv notes.txt notes2.txt
+  215  ll
+  216  cp notes.txt notes3.txt
+  217  cp notes2.txt notes.txt
+  218  ll
+  219  mkdir notes_repo
+  220  cp notes2.txt notes_repo/notes.txt
+  221  rm -r notes_repo
+  222  ll
+  223  rm n*
+  224  ll
+  225  .
+  226  ..
+  227  rmdir notebook
+  228  ll
+  229  mkdir -p notebook/bash
+  230  ll
+  231  cd notebook
+  232  ll
+  233  history
+  234  clear
+  235  history
+  236  history 208
+  237  ll
+  238  history 10
+  239  ll
+  240  ll
+  241  ll
+  242  sudo ll
+  243  ll
+  244  touch notes.txt
+  245  ll
+  246  history > notes.txt
+  247  ll
+  248  cat notes.txt
+  249  ll > notes.txt
+  250  ll
+  251  cat notes.txt
+  252  history>notes.txt
+total 24
+-rw-r--r--  1 jennaw  ANT\Domain Users    69B Sep  6 11:07 1
+drwxr-xr-x  2 jennaw  ANT\Domain Users    68B Sep  6 10:36 bash
+-rw-r--r--  1 jennaw  ANT\Domain Users   4.6K Sep  6 11:00 notes.txt
